@@ -1,16 +1,18 @@
 # calculator
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/101191826/194806198-3a08729e-6505-44ed-b6aa-5fe79e649893.jpg)
 
-## Getting Started
+- *Basic Calculator Project*
 
-This project is a starting point for a Flutter application.
+## features
+- Addition
+- Substraction
+- Division
+- Multiplication
+- Fast UI
+- Reusable code
 
-A few resources to get you started if this is your first Flutter project:
+## used Package
+- math_expressions: v2.3.1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Keep Coding*
